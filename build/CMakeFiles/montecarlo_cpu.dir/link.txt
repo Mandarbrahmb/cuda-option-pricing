@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/montecarlo_cpu.dir/src/montecarlo_cpu.cpp.o -o montecarlo_cpu 
