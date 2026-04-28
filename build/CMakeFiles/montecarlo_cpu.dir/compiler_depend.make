@@ -213,8 +213,21 @@ CMakeFiles/montecarlo_cpu.dir/src/montecarlo_cpu.cpp.o: /home/compute/b.mandar/c
   /usr/include/c++/8/x86_64-redhat-linux/bits/opt_random.h \
   /usr/include/c++/8/bits/random.tcc \
   /usr/include/c++/8/numeric \
-  /usr/include/c++/8/bits/stl_numeric.h
+  /usr/include/c++/8/bits/stl_numeric.h \
+  /usr/include/c++/8/algorithm \
+  /usr/include/c++/8/bits/stl_algo.h \
+  /usr/include/c++/8/bits/algorithmfwd.h \
+  /usr/include/c++/8/bits/stl_heap.h \
+  /usr/include/c++/8/bits/stl_tempbuf.h
 
+
+/usr/include/c++/8/bits/stl_tempbuf.h:
+
+/usr/include/c++/8/bits/algorithmfwd.h:
+
+/usr/include/c++/8/bits/stl_heap.h:
+
+/usr/include/c++/8/bits/stl_algo.h:
 
 /usr/include/c++/8/bits/stl_numeric.h:
 
@@ -299,6 +312,8 @@ CMakeFiles/montecarlo_cpu.dir/src/montecarlo_cpu.cpp.o: /home/compute/b.mandar/c
 /usr/include/c++/8/bits/stl_iterator_base_types.h:
 
 /usr/include/bits/flt-eval-method.h:
+
+/usr/include/c++/8/algorithm:
 
 /usr/include/c++/8/x86_64-redhat-linux/bits/atomic_word.h:
 

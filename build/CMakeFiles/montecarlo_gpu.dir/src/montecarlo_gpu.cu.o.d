@@ -258,16 +258,6 @@ CMakeFiles/montecarlo_gpu.dir/src/montecarlo_gpu.cu.o : /home/compute/b.mandar/c
     /usr/include/c++/8/bits/ostream.tcc \
     /usr/include/c++/8/istream \
     /usr/include/c++/8/bits/istream.tcc \
-    /usr/include/c++/8/vector \
-    /usr/include/c++/8/bits/stl_construct.h \
-    /usr/include/c++/8/bits/stl_uninitialized.h \
-    /usr/include/c++/8/bits/stl_vector.h \
-    /usr/include/c++/8/bits/stl_bvector.h \
-    /usr/include/c++/8/bits/vector.tcc \
-    /usr/include/c++/8/chrono \
-    /usr/include/c++/8/ratio \
-    /usr/include/c++/8/ctime \
-    /usr/include/c++/8/bits/parse_numbers.h \
     /usr/local/cuda/include/curand_kernel.h \
     /usr/local/cuda/include/nv/target \
     /usr/local/cuda/include/nv/detail/__target_macros \
